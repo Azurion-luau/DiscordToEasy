@@ -6,8 +6,11 @@
 
 ## Links
 👉 [Licence](https://github.com/Azurion-luau/DiscordToEasy/blob/main/LICENSE.md)
+
 👉 [Readme](https://github.com/Azurion-luau/DiscordToEasy/blob/main/README.md)
+
 👉 [Changelog](https://github.com/Azurion-luau/DiscordToEasy/blob/main/CHANGELOG.md)
+
 
 ---
 
