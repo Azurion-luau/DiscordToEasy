@@ -4,33 +4,33 @@
 
 ---
 
-## 🚀 Funcionalidades
-
-- Integração rápida com o Discord via `discord.py`
-- Sistema de **chaves Freemium e Premium**
-- Mesmas funcionalidades em ambas as versões (limitadas por tempo no Freemium)
-- Interface de ativação simples via `run.py`
-- Pronto para uso em projetos pessoais ou comerciais
+## Links
+👉 [Licence](https://github.com/Azurion-luau/DiscordToEasy/blob/main/LICENSE.md)
+👉 [Readme](https://github.com/Azurion-luau/DiscordToEasy/blob/main/README.md)
+👉 [Changelog](https://github.com/Azurion-luau/DiscordToEasy/blob/main/CHANGELOG.md)
 
 ---
 
-## 🔑 Chaves de Ativação
+## 🚀 Funcionalidades
 
-Existem dois tipos de chave:
+- Integração rápida com o Discord via `discord.py`
+- Acesso gratuito com chave temporária (24h)
+- Grande parte das funcionalidades antes exclusivas da versão Premium
+- Interface de ativação simples via `run.py`
 
-### 🆓 Freemium
+---
+
+## 🔑 Chaves de Acesso
+
+### 🆓 Freemium (Gratuita)
+- É a **única versão disponível atualmente**
 - Funciona por 24h a partir da ativação
 - Liberada aleatoriamente em datas específicas
-- Mesmas funções da versão paga
-- Não permite modificação da biblioteca
+- **Contém a maior parte das funcionalidades da antiga versão Premium**
+- Ideal para testes, projetos pessoais e uso em bots reais
+- **Não permite modificação da biblioteca**
 
 👉 [**Testar chave Freemium**](https://discordbottoeasy.netlify.app/freemium/index.html)
-
-### 💼 Subscription (Paga)
-- Uso contínuo e ilimitado
-- Fornecida pelos mantenedores do projeto
-
-👉 [**Obter Subscription Key**](#)
 
 ---
 
@@ -39,5 +39,5 @@ Existem dois tipos de chave:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/DiscordBotToEasy.git
-cd DiscordBotToEasy
+git clone https://github.com/Azurion-luau/DiscordBotToEasy.git
+```
