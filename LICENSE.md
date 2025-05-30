@@ -1,3 +1,5 @@
+**Copyright (c) Lucas Vargas Titton**
+
 # Links  
 👉 [Licence](https://github.com/Azurion-luau/DiscordToEasy/blob/main/LICENSE.md)  
 
