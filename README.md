@@ -1,16 +1,13 @@
-# 🤖 DiscordBotToEasy
-
-**DiscordBotToEasy** é uma biblioteca desenvolvida para facilitar ao máximo a criação e execução de bots para Discord — com foco em praticidade, velocidade e zero complicações técnicas.
-
----
-
-## Links
+# Links
 👉 [Licence](https://github.com/Azurion-luau/DiscordToEasy/blob/main/LICENSE.md)
 
 👉 [Readme](https://github.com/Azurion-luau/DiscordToEasy/blob/main/README.md)
 
 👉 [Changelog](https://github.com/Azurion-luau/DiscordToEasy/blob/main/CHANGELOG.md)
 
+# 🤖 DiscordBotToEasy
+
+**DiscordBotToEasy** é uma biblioteca desenvolvida para facilitar ao máximo a criação e execução de bots para Discord — com foco em praticidade, velocidade e zero complicações técnicas.
 
 ---
 
